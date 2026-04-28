@@ -52,7 +52,7 @@ export function App() {
       <h1>Micropay Developer Dashboard</h1>
       <p className="sub">
         This project is funded and governed by the Stellar Treasury system:
-        https://github.com/YOUR-USERNAME/stellar-treasury
+        https://github.com/Chibex-max/stellar-treasury
       </p>
 
       <section className="card">

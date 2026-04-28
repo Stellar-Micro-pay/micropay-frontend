@@ -3,7 +3,7 @@
 Developer dashboard for monitoring API key status, usage, and Soroban micropayment balance.
 
 This project is funded and governed by the Stellar Treasury system:
-https://github.com/YOUR-USERNAME/stellar-treasury
+https://github.com/Chibex-max/stellar-treasury
 
 ## UI Scope
 
