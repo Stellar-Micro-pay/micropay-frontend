@@ -1,0 +1,59 @@
+:root {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, sans-serif;
+  color: #1a1f36;
+  background: #f4f6fb;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem 1rem 3rem;
+}
+
+.sub {
+  color: #475069;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #dde3f0;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+label {
+  display: block;
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+}
+
+input,
+select {
+  display: block;
+  width: 100%;
+  margin-top: 0.35rem;
+  padding: 0.6rem 0.7rem;
+  border: 1px solid #cad3e8;
+  border-radius: 8px;
+}
+
+button {
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  padding: 0.65rem 0.95rem;
+  border: 0;
+  border-radius: 8px;
+  background: #3d63dd;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}
