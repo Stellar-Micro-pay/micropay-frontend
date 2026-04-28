@@ -3,7 +3,7 @@
 > Developer dashboard for the MicroPay API platform.
 
 This project is funded and governed by the Stellar Treasury system:
-**https://github.com/YOUR-USERNAME/stellar-treasury**
+**https://github.com/Chibey-max/stellar-treasury**
 
 ---
 
@@ -24,7 +24,7 @@ interface to manage their MicroPay API access:
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR-USERNAME/micropay-frontend
+git clone https://github.com/Chibey-max/micropay-frontend
 cd micropay-frontend
 
 # 2. Install
@@ -81,7 +81,7 @@ npm run build
 
 | Repo | Purpose |
 |---|---|
-| [micropay-contracts](https://github.com/YOUR-USERNAME/micropay-contracts) | Soroban contract |
-| [micropay-backend](https://github.com/YOUR-USERNAME/micropay-backend) | Node.js API gateway |
-| [micropay-docs](https://github.com/YOUR-USERNAME/micropay-docs) | Full documentation |
-| [stellar-treasury](https://github.com/YOUR-USERNAME/stellar-treasury) | Governing DAO |
+| [micropay-contracts](https://github.com/Chibey-max/micropay-contracts) | Soroban contract |
+| [micropay-backend](https://github.com/Chibey-max/micropay-backend) | Node.js API gateway |
+| [micropay-docs](https://github.com/Chibey-max/micropay-docs) | Full documentation |
+| [stellar-treasury](https://github.com/Chibey-max/stellar-treasury) | Governing DAO |
