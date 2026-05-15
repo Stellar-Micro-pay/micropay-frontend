@@ -27,3 +27,4 @@
 - Milestone 23: incremental delivery checkpoint for micropay-frontend
 - Milestone 24: incremental delivery checkpoint for micropay-frontend
 - Milestone 25: incremental delivery checkpoint for micropay-frontend
+- Milestone 26: incremental delivery checkpoint for micropay-frontend
